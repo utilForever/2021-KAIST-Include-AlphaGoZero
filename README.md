@@ -4,7 +4,23 @@
 
 ## Contents
 
-TBA
+- Week 1 (2/20)
+- Week 2 (2/27)
+- Week 3 (3/6)
+- Week 4 (3/13)
+- Week 5 (3/20)
+- Week 6 (3/27)
+- Week 7 (4/3)
+- Week 8 (4/10)
+  - No lecture due to mid-term exam
+- Week 9 (4/17)
+  - No lecture due to mid-term exam
+- Week 10 (4/24)
+- Week 11 (5/1)
+- Week 12 (5/8)
+- Week 13 (5/15)
+- Week 14 (5/22)
+- Week 15 (5/29)
 
 ## How To Contribute
 
