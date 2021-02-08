@@ -12,22 +12,36 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
 ## Contents
 
 - Week 1 (2/20)
+  - Toward deep learning: a machine-learning introduction
+  - Go as a machine-learning problem
 - Week 2 (2/27)
+  - Implementing your first Go bot
 - Week 3 (3/6)
+  - Playing games with tree search
 - Week 4 (3/13)
+  - Getting started with neural networks
 - Week 5 (3/20)
+  - Designing a neural network for Go data
 - Week 6 (3/27)
+  - Learning from data: a deep learning bot
 - Week 7 (4/3)
+  - Learning by practice: reinforcement learning
 - Week 8 (4/10)
   - No lecture due to mid-term exam
 - Week 9 (4/17)
   - No lecture due to mid-term exam
 - Week 10 (4/24)
+  - Reinforcement learning with policy gradients
 - Week 11 (5/1)
+  - Reinforcement learning with value methods
 - Week 12 (5/8)
+  - Reinforcement learning with actor-critic methods
 - Week 13 (5/15)
+  - AlphaGo: Bringing it all together
 - Week 14 (5/22)
+  - AlphaGo Zero: Integrating tree search with reinforcement learning
 - Week 15 (5/29)
+  - Summary
 
 ## How To Contribute
 
