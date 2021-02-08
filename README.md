@@ -34,28 +34,76 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Playing against your bot
 - Week 3 (3/6)
   - Playing games with tree search
+    - Classsifying games
+    - Anticipating your opponent with minimax search
+    - Solving tic-tae-toe: a minimax example
+    - Reducing search space with pruning
+    - Evaluating game states with the Monte Carlo tree search algorithm
 - Week 4 (3/13)
   - Getting started with neural networks
+    - A simple use case: Classifying handwritten digits
+    - The basics of neural networks
+    - Feed-forward networks
+    - How good are our predictions? Loss functions and optimization
+    - Training a neural network step-by-step in Python
 - Week 5 (3/20)
   - Designing a neural network for Go data
+    - Encoding a Go game position for neural networks
+    - Generating tree-search games as network training data
+    - TensorFlow 2.0 and PyTorch: Deep-learning libraries
+    - Analyzing space with convolutional networks
+    - Predicting Go move probabilities
+    - Building deeper networks with dropout and rectified linear units
+    - Putting it all together for a stronger Go move prediction network
 - Week 6 (3/27)
   - Learning from data: a deep learning bot
+    - Importing Go game records
+    - Preparing Go data for deep learning
+    - Training a deep-learning model on human game-play data
+    - Building more-realistic Go data encoders
+    - Training efficiently with adaptive gradients
+    - Running your own experiments and evaluating performance
 - Week 7 (4/3)
   - Learning by practice: reinforcement learning
+    - The reinforcement-learning cycle
+    - What goes into experience?
+    - Building an agent that can learn
+    - Self-play: how a computer program practices
 - Week 8 (4/10)
   - No lecture due to mid-term exam
 - Week 9 (4/17)
   - No lecture due to mid-term exam
 - Week 10 (4/24)
   - Reinforcement learning with policy gradients
+    - How random games can identify good decisions
+    - Modifying neural network policies with gradient descent
+    - Tips for training with self-play
 - Week 11 (5/1)
   - Reinforcement learning with value methods
+    - Playing games with Q-learning
+    - Q-learning with TensorFlow 2.0 and PyTorch
 - Week 12 (5/8)
   - Reinforcement learning with actor-critic methods
+    - Advantage tells you which decisions are important
+    - Designing a neural network for actor-critic learning
+    - Playing games with an actor-critic agent
+    - Training an actor-critic agent from experience data
 - Week 13 (5/15)
   - AlphaGo: Bringing it all together
+    - Training deep neural networks for AlphaGo
+    - Bootstrapping self-play from policy networks
+    - Deriving a value network from self-play data
+    - Better search with policy and value networks
+    - Practical considerations for training your own AlphaGo
 - Week 14 (5/22)
   - AlphaGo Zero: Integrating tree search with reinforcement learning
+    - Building a neural network for tree search
+    - Tree search
+    - Training
+    - Improving exploration with Dirichlet noise
+    - Modern techniques for deeper neural networks
+    - Additional resources
+    - Wrapping up
 - Week 15 (5/29)
   - Summary
 
