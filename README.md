@@ -2,6 +2,13 @@
 
 2021-KAIST-Include-AlphaZero is the material(lecture notes, examples and assignments) repository for making AI of the game 'Go' using [AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go) course that I'll teach the club 'Include' at KAIST in the spring of 2021. Note that examples and assignments in this repository uses [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/).
 
+## Book
+
+Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2019)
+- Korean: 딥러닝과 바둑 (한빛미디어, 2020)
+
+![](https://images.manning.com/360/480/resize/book/8/4ef97d9-3867-4f76-9301-c05009020c68/Pumperla-DL-HI.png)
+
 ## Contents
 
 - Week 1 (2/20)
