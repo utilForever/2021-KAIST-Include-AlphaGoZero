@@ -13,9 +13,25 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
 
 - Week 1 (2/20)
   - Toward deep learning: a machine-learning introduction
+    - What is maching learning?
+    - Machine learning by example
+    - Deep learning
+    - What you will learn in this lecture
   - Go as a machine-learning problem
+    - Why games?
+    - A lightning introduction to the game of Go
+    - Handicaps
+    - Where to learn more
+    - What can we tech a machine?
+    - How to measure our Go AI's strength
 - Week 2 (2/27)
   - Implementing your first Go bot
+    - Representing a game of Go in Python
+    - Go game state and checking for illegal moves
+    - Ending a game
+    - Creating your first bot: the weakest Go AI imaginable
+    - Speeding up gameplay with Zobrist hashing
+    - Playing against your bot
 - Week 3 (3/6)
   - Playing games with tree search
 - Week 4 (3/13)
