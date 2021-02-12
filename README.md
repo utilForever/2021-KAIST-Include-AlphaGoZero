@@ -13,7 +13,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
 
 - Week 1 (2/20)
   - Toward deep learning: a machine-learning introduction
-    - What is maching learning?
+    - What is machine learning?
     - Machine learning by example
     - Deep learning
     - What you will learn in this lecture
