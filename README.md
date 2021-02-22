@@ -78,28 +78,27 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - How random games can identify good decisions
     - Modifying neural network policies with gradient descent
     - Tips for training with self-play
-- Week 11 (5/29)
   - Reinforcement learning with value methods
     - Playing games with Q-learning
     - Q-learning with TensorFlow 2.0 and PyTorch
-- Week 12 (6/5)
-  - No lecture due to mid-term exam
-- Week 13 (6/12)
-  - No lecture due to mid-term exam
-- Week 14 (6/19)
+- Week 11 (5/29)
   - Reinforcement learning with actor-critic methods
     - Advantage tells you which decisions are important
     - Designing a neural network for actor-critic learning
     - Playing games with an actor-critic agent
     - Training an actor-critic agent from experience data
-- Week 15 (6/26)
+- Week 12 (6/5)
+  - No lecture due to mid-term exam
+- Week 13 (6/12)
+  - No lecture due to mid-term exam
+- Week 14 (6/19)
   - AlphaGo: Bringing it all together
     - Training deep neural networks for AlphaGo
     - Bootstrapping self-play from policy networks
     - Deriving a value network from self-play data
     - Better search with policy and value networks
     - Practical considerations for training your own AlphaGo
-- Week 16 (7/3)
+- Week 15 (6/26)
   - AlphaGo Zero: Integrating tree search with reinforcement learning
     - Building a neural network for tree search
     - Tree search
