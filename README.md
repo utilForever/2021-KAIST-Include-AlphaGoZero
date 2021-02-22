@@ -11,7 +11,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
 
 ## Contents
 
-- Week 1 (2/20)
+- Week 1 (3/20)
   - Toward deep learning: a machine-learning introduction
     - What is machine learning?
     - Machine learning by example
@@ -24,7 +24,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Where to learn more
     - What can we tech a machine?
     - How to measure our Go AI's strength
-- Week 2 (2/27)
+- Week 2 (3/27)
   - Implementing your first Go bot
     - Representing a game of Go in Python
     - Go game state and checking for illegal moves
@@ -32,21 +32,25 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Creating your first bot: the weakest Go AI imaginable
     - Speeding up gameplay with Zobrist hashing
     - Playing against your bot
-- Week 3 (3/6)
+- Week 3 (4/3)
   - Playing games with tree search
     - Classsifying games
     - Anticipating your opponent with minimax search
     - Solving tic-tae-toe: a minimax example
     - Reducing search space with pruning
     - Evaluating game states with the Monte Carlo tree search algorithm
-- Week 4 (3/13)
+- Week 4 (4/10)
+  - No lecture due to mid-term exam
+- Week 5 (4/17)
+  - No lecture due to mid-term exam
+- Week 6 (4/24)
   - Getting started with neural networks
     - A simple use case: Classifying handwritten digits
     - The basics of neural networks
     - Feed-forward networks
     - How good are our predictions? Loss functions and optimization
     - Training a neural network step-by-step in Python
-- Week 5 (3/20)
+- Week 7 (5/1)
   - Designing a neural network for Go data
     - Encoding a Go game position for neural networks
     - Generating tree-search games as network training data
@@ -55,7 +59,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Predicting Go move probabilities
     - Building deeper networks with dropout and rectified linear units
     - Putting it all together for a stronger Go move prediction network
-- Week 6 (3/27)
+- Week 8 (5/8)
   - Learning from data: a deep learning bot
     - Importing Go game records
     - Preparing Go data for deep learning
@@ -63,39 +67,39 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Building more-realistic Go data encoders
     - Training efficiently with adaptive gradients
     - Running your own experiments and evaluating performance
-- Week 7 (4/3)
+- Week 9 (5/15)
   - Learning by practice: reinforcement learning
     - The reinforcement-learning cycle
     - What goes into experience?
     - Building an agent that can learn
     - Self-play: how a computer program practices
-- Week 8 (4/10)
-  - No lecture due to mid-term exam
-- Week 9 (4/17)
-  - No lecture due to mid-term exam
-- Week 10 (4/24)
+- Week 10 (5/22)
   - Reinforcement learning with policy gradients
     - How random games can identify good decisions
     - Modifying neural network policies with gradient descent
     - Tips for training with self-play
-- Week 11 (5/1)
+- Week 11 (5/29)
   - Reinforcement learning with value methods
     - Playing games with Q-learning
     - Q-learning with TensorFlow 2.0 and PyTorch
-- Week 12 (5/8)
+- Week 12 (6/5)
+  - No lecture due to mid-term exam
+- Week 13 (6/12)
+  - No lecture due to mid-term exam
+- Week 14 (6/19)
   - Reinforcement learning with actor-critic methods
     - Advantage tells you which decisions are important
     - Designing a neural network for actor-critic learning
     - Playing games with an actor-critic agent
     - Training an actor-critic agent from experience data
-- Week 13 (5/15)
+- Week 15 (6/26)
   - AlphaGo: Bringing it all together
     - Training deep neural networks for AlphaGo
     - Bootstrapping self-play from policy networks
     - Deriving a value network from self-play data
     - Better search with policy and value networks
     - Practical considerations for training your own AlphaGo
-- Week 14 (5/22)
+- Week 16 (7/3)
   - AlphaGo Zero: Integrating tree search with reinforcement learning
     - Building a neural network for tree search
     - Tree search
@@ -104,8 +108,6 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Modern techniques for deeper neural networks
     - Additional resources
     - Wrapping up
-- Week 15 (5/29)
-  - Summary
 
 ## How To Contribute
 
