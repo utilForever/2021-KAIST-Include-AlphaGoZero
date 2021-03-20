@@ -88,9 +88,9 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Playing games with an actor-critic agent
     - Training an actor-critic agent from experience data
 - Week 12 (6/5)
-  - No lecture due to mid-term exam
+  - No lecture due to final-term exam
 - Week 13 (6/12)
-  - No lecture due to mid-term exam
+  - No lecture due to final-term exam
 - Week 14 (6/19)
   - AlphaGo: Bringing it all together
     - Training deep neural networks for AlphaGo
