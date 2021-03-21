@@ -11,7 +11,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
 
 ## Contents
 
-- Week 1 (3/20)
+- [Week 1 (3/20)](./1%20-%20Lecture/210320%20-%20Introduction.pdf)
   - Toward deep learning: a machine-learning introduction
     - What is machine learning?
     - Machine learning by example
