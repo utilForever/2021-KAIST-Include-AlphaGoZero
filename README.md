@@ -24,7 +24,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Where to learn more
     - What can we tech a machine?
     - How to measure our Go AI's strength
-- Week 2 (3/27) [[Lecture]](./1%20-%20Lecture/210327%20-%20Implementing%20first%20Go%20bot.pdf)
+- Week 2 (3/27) [[Lecture]](./1%20-%20Lecture/210327%20-%20Implementing%20first%20Go%20bot.pdf) [[Code]](./2%20-%20Code/210327%20-%20Implementing%20first%20Go%20bot) [Assignment]
   - Implementing your first Go bot
     - Representing a game of Go in Python
     - Go game state and checking for illegal moves
