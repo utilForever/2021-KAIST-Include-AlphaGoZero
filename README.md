@@ -32,7 +32,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Creating your first bot: the weakest Go AI imaginable
     - Speeding up gameplay with Zobrist hashing
     - Playing against your bot
-- Week 3 (4/3)
+- Week 3 (4/3) [[Lecture]](./1%20-%20Lecture/210403%20-%20Tree%20search%20algorithms.pdf)
   - Playing games with tree search
     - Classsifying games
     - Anticipating your opponent with minimax search
