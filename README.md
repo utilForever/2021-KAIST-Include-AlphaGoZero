@@ -1,6 +1,6 @@
-# 2021-KAIST-Include-AlphaZero
+# 2021-KAIST-Include-AlphaGoZero
 
-2021-KAIST-Include-AlphaZero is the material(lecture notes, examples and assignments) repository for making AI of the game 'Go' using [AlphaZero](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go) course that I'll teach the club 'Include' at KAIST in the spring of 2021. Note that examples and assignments in this repository uses [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/).
+2021-KAIST-Include-AlphaGoZero is the material(lecture notes, examples and assignments) repository for making AI of the game 'Go' using [AlphaGo](https://deepmind.com/research/case-studies/alphago-the-story-so-far) and [AlphaGo Zero](https://deepmind.com/blog/article/alphago-zero-starting-scratch) course that I'll teach the club 'Include' at KAIST in the spring of 2021. Note that examples and assignments in this repository uses [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/).
 
 ## Book
 
