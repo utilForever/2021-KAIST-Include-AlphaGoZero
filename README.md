@@ -24,7 +24,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Where to learn more
     - What can we tech a machine?
     - How to measure our Go AI's strength
-- Week 2 (3/27) [[Lecture]](./1%20-%20Lecture/210327%20-%20Implementing%20first%20Go%20bot.pdf) [[Code]](./2%20-%20Code/210327%20-%20Implementing%20first%20Go%20bot) [Assignment]
+- Week 2 (3/27) [[Lecture]](./1%20-%20Lecture/210327%20-%20Implementing%20first%20Go%20bot.pdf) [[Code]](./2%20-%20Code/210327%20-%20Implementing%20first%20Go%20bot)
   - Implementing your first Go bot
     - Representing a game of Go in Python
     - Go game state and checking for illegal moves
@@ -39,7 +39,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Solving tic-tae-toe: a minimax example
     - Reducing search space with pruning
     - Evaluating game states with the Monte Carlo tree search algorithm
-- Week 4 (4/10)
+- Week 4 (4/10) [[Assignment]](./3%20-%20Assignment/210410%20-%20Assignment%201/210410%20-%20Assignment%201.pdf)
   - No lecture due to mid-term exam
 - Week 5 (4/17)
   - No lecture due to mid-term exam
