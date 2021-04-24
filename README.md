@@ -43,7 +43,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
   - No lecture due to mid-term exam
 - Week 5 (4/17)
   - No lecture due to mid-term exam
-- Week 6 (4/24)
+- Week 6 (4/24) [[Lecture]](./1%20-%20Lecture/210424%20-%20Getting%20started%20with%20neural%20networks.pdf)
   - Getting started with neural networks
     - A simple use case: Classifying handwritten digits
     - The basics of neural networks
