@@ -52,11 +52,10 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Training a neural network step-by-step in Python
 - Week 7 (5/1)
   - No lecture due to personal reason
-- Week 8 (5/8)
+- Week 8 (5/8) [[Lecture]](./1%20-%20Lecture/210508%20-%20Neural%20network%20for%20Go%20data.pdf)
   - Designing a neural network for Go data
     - Encoding a Go game position for neural networks
     - Generating tree-search games as network training data
-    - TensorFlow 2.0 and PyTorch: Deep-learning libraries
     - Analyzing space with convolutional networks
     - Predicting Go move probabilities
     - Building deeper networks with dropout and rectified linear units
