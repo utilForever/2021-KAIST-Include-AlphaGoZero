@@ -51,6 +51,8 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - How good are our predictions? Loss functions and optimization
     - Training a neural network step-by-step in Python
 - Week 7 (5/1)
+  - No lecture due to personal reason
+- Week 8 (5/8)
   - Designing a neural network for Go data
     - Encoding a Go game position for neural networks
     - Generating tree-search games as network training data
@@ -59,7 +61,9 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Predicting Go move probabilities
     - Building deeper networks with dropout and rectified linear units
     - Putting it all together for a stronger Go move prediction network
-- Week 8 (5/8)
+- Week 9 (5/15)
+  - No lecture due to personal reason
+- Week 10 (5/22)
   - Learning from data: a deep learning bot
     - Importing Go game records
     - Preparing Go data for deep learning
@@ -67,13 +71,17 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Building more-realistic Go data encoders
     - Training efficiently with adaptive gradients
     - Running your own experiments and evaluating performance
-- Week 9 (5/15)
+- Week 11 (5/29)
   - Learning by practice: reinforcement learning
     - The reinforcement-learning cycle
     - What goes into experience?
     - Building an agent that can learn
     - Self-play: how a computer program practices
-- Week 10 (5/22)
+- Week 12 (6/5)
+  - No lecture due to final-term exam
+- Week 13 (6/12)
+  - No lecture due to final-term exam
+- Week 14 (6/19)
   - Reinforcement learning with policy gradients
     - How random games can identify good decisions
     - Modifying neural network policies with gradient descent
@@ -81,24 +89,20 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
   - Reinforcement learning with value methods
     - Playing games with Q-learning
     - Q-learning with TensorFlow 2.0 and PyTorch
-- Week 11 (5/29)
+- Week 15 (6/26)
   - Reinforcement learning with actor-critic methods
     - Advantage tells you which decisions are important
     - Designing a neural network for actor-critic learning
     - Playing games with an actor-critic agent
     - Training an actor-critic agent from experience data
-- Week 12 (6/5)
-  - No lecture due to final-term exam
-- Week 13 (6/12)
-  - No lecture due to final-term exam
-- Week 14 (6/19)
+- Week 16 (7/3)
   - AlphaGo: Bringing it all together
     - Training deep neural networks for AlphaGo
     - Bootstrapping self-play from policy networks
     - Deriving a value network from self-play data
     - Better search with policy and value networks
     - Practical considerations for training your own AlphaGo
-- Week 15 (6/26)
+- Week 17 (7/10)
   - AlphaGo Zero: Integrating tree search with reinforcement learning
     - Building a neural network for tree search
     - Tree search
