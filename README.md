@@ -39,7 +39,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Solving tic-tae-toe: a minimax example
     - Reducing search space with pruning
     - Evaluating game states with the Monte Carlo tree search algorithm
-- Week 4 (4/10) [[Assignment]](./3%20-%20Assignment/210410%20-%20Assignment%201/210410%20-%20Assignment%201.pdf)
+- Week 4 (4/10) [[Assignment]](./3%20-%20Assignment/210410%20-%20Assignment%201.pdf)
   - No lecture due to mid-term exam
 - Week 5 (4/17)
   - No lecture due to mid-term exam
