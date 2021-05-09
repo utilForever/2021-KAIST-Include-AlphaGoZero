@@ -5,8 +5,8 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 
 np.random.seed(123)
-X = np.load('../generated_games/features-200.npy')
-Y = np.load('../generated_games/labels-200.npy')
+X = np.load('generated_games/features-200.npy')
+Y = np.load('generated_games/labels-200.npy')
 samples = X.shape[0]
 board_size = 9 * 9
 
