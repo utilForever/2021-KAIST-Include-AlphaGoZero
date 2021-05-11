@@ -2,20 +2,12 @@ from __future__ import print_function
 import numpy as np
 
 
-def sigmoid_double(x):
-    return 1.0 / (1.0 + np.exp(-x))
-
-
 def sigmoid(z):
-    return np.vectorize(sigmoid_double)(z)
-
-
-def sigmoid_prime_double(x):
-    return sigmoid_double(x) * (1 - sigmoid_double(x))
+    return np.reciprocal(np.add(1.0, np.exp(-z)))
 
 
 def sigmoid_prime(z):
-    return np.vectorize(sigmoid_prime_double)(z)
+    return np.multiply(sigmoid(z), np.subtract(1, sigmoid(z)))
 
 
 class Layer(object):
