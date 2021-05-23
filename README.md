@@ -62,7 +62,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Putting it all together for a stronger Go move prediction network
 - Week 9 (5/15)
   - No lecture due to personal reason
-- Week 10 (5/22) [[Lecture]](./1%20-%20Lecture/210522%20-%20Learning%20from%20data%2C%20a%20deep-learning%20bot.pdf)
+- Week 10 (5/22) [[Lecture]](./1%20-%20Lecture/210522%20-%20Learning%20from%20data%2C%20a%20deep-learning%20bot.pdf) [[Code]](./2%20-%20Code/210522%20-%20Learning%20from%20data%2C%20a%20deep-learning%20bot)
   - Learning from data: a deep learning bot
     - Importing Go game records
     - Preparing Go data for deep learning
