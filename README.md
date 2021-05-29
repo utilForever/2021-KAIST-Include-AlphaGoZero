@@ -70,7 +70,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Building more-realistic Go data encoders
     - Training efficiently with adaptive gradients
     - Running your own experiments and evaluating performance
-- Week 11 (5/29) [[Lecture]](./1%20-%20Lecture/210529%20-%20Learning%20by%20practice%2C%20reinforcement%20learning.pdf)
+- Week 11 (5/29) [[Lecture]](./1%20-%20Lecture/210529%20-%20Learning%20by%20practice%2C%20reinforcement%20learning.pdf) [[Code]](./2%20-%20Code/210529%20-%20Learning%20by%20practice%2C%20reinforcement%20learning)
   - Learning by practice: reinforcement learning
     - The reinforcement-learning cycle
     - What goes into experience?
