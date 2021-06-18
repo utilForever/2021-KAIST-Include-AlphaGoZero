@@ -85,10 +85,10 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - How random games can identify good decisions
     - Modifying neural network policies with gradient descent
     - Tips for training with self-play
+- Week 15 (6/26)
   - Reinforcement learning with value methods
     - Playing games with Q-learning
     - Q-learning with TensorFlow 2.0 and PyTorch
-- Week 15 (6/26)
   - Reinforcement learning with actor-critic methods
     - Advantage tells you which decisions are important
     - Designing a neural network for actor-critic learning
