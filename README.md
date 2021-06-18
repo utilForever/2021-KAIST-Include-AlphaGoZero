@@ -80,7 +80,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
   - No lecture due to final-term exam
 - Week 13 (6/12)
   - No lecture due to final-term exam
-- Week 14 (6/19) [[Lecture]](./1%20-%20Lecture/210619%20-%20Reinforcement%20learning%20with%20policy%20gradients.pdf)
+- Week 14 (6/19) [[Lecture]](./1%20-%20Lecture/210619%20-%20Reinforcement%20learning%20with%20policy%20gradients.pdf) [[Code]](./2%20-%20Code/210619%20-%20Reinforcement%20learning%20with%20policy%20gradients)
   - Reinforcement learning with policy gradients
     - How random games can identify good decisions
     - Modifying neural network policies with gradient descent
