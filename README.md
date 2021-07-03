@@ -94,7 +94,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Designing a neural network for actor-critic learning
     - Playing games with an actor-critic agent
     - Training an actor-critic agent from experience data
-- Week 16 (7/3)
+- Week 16 (7/3) [[Lecture]](./1%20-%20Lecture/210703%20-%20AlphaGo%2C%20Bringing%20it%20all%20together.pdf)
   - AlphaGo: Bringing it all together
     - Training deep neural networks for AlphaGo
     - Bootstrapping self-play from policy networks
