@@ -101,7 +101,7 @@ Deep Learning and the Game of Go, by Max Pumperla and Kevin Ferguson (Manning, 2
     - Deriving a value network from self-play data
     - Better search with policy and value networks
     - Practical considerations for training your own AlphaGo
-- Week 17 (7/10)
+- Week 17 (7/10) [[Lecture]](./1%20-%20Lecture/210710%20-%20AlphaGo%20Zero%2C%20Integrating%20tree%20search%20with%20reinforcement%20learning.pdf)
   - AlphaGo Zero: Integrating tree search with reinforcement learning
     - Building a neural network for tree search
     - Tree search
